@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FormifyPro](https://formifypro.vercel.app/)
 
-- 🌱 I’m currently learning **React.js, Next.js, Typescript, Tailwind, MySQL, MongoDB**
+- 🌱 I’m an a Fullstack Engineer who uses **React.js, Next.js, Typescript, Tailwind, Python, FastAPI, PostgreSQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://omgate.vercel.app](https://omgate.vercel.app)
 
